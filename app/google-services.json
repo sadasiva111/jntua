@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1079597391312",
+    "firebase_url": "https://jntua-ams-43571.firebaseio.com",
+    "project_id": "jntua-ams-43571",
+    "storage_bucket": "jntua-ams-43571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079597391312:android:a3afbb457b292718996dd5",
+        "android_client_info": {
+          "package_name": "com.blueskydev.jntuacea.jams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079597391312-b6n85tfrqlhmirl5eaqaua6bmu9r235s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blueskydev.jntuacea.jams",
+            "certificate_hash": "63f267ee913bb9ae3abe5140bb8f5ee3c06a0b38"
+          }
+        },
+        {
+          "client_id": "1079597391312-tm5kq1c4vu7m14otallf0kqns8k3un3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXKeD-37VKtP68NAcWfMl6BFZzAYt9dWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079597391312-tm5kq1c4vu7m14otallf0kqns8k3un3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
